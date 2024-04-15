@@ -1,0 +1,9 @@
+*.md text eol=lf
+*.cs text eol=lf
+*.csproj text eol=crlf
+.git* text eol=lf
+
+*.sln binary
+
+*.pdf binary
+*.png binary
